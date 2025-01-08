@@ -49,7 +49,7 @@ public class ProductController {
         if (productList.isEmpty()) {
             return ResponseEntity.badRequest().body(productList);
         }
-    
+
         return ResponseEntity.ok(productList);
     }
     @GetMapping("{productId}")
