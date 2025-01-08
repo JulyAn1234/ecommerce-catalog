@@ -1,9 +1,7 @@
-package com.ecommerceAuth.ecommerceAuth.controller;
+package com.ecommerceCatalog.ecommerceCatalog.controller;
 
-import com.ecommerceAuth.ecommerceAuth.model.entities.User;
-import com.ecommerceAuth.ecommerceAuth.service.AuthenticationService;
-import com.ecommerceAuth.ecommerceAuth.service.JwtService;
-import com.ecommerceAuth.ecommerceAuth.service.UserService;
+import com.ecommerceCatalog.ecommerceCatalog.model.entities.User;
+import com.ecommerceCatalog.ecommerceCatalog.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

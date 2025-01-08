@@ -1,10 +1,10 @@
-package com.ecommerceAuth.ecommerceAuth;
+package com.ecommerceCatalog.ecommerceCatalog;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class EcommerceAuthApplicationTests {
+class EcommerceCatalogApplicationTests {
 
 	@Test
 	void contextLoads() {

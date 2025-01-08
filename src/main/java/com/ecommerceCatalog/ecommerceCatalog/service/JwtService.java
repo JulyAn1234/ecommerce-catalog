@@ -1,4 +1,4 @@
-package com.ecommerceAuth.ecommerceAuth.service;
+package com.ecommerceCatalog.ecommerceCatalog.service;
 
 
 

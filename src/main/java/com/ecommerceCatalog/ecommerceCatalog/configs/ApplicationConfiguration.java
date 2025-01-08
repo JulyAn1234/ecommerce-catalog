@@ -1,6 +1,6 @@
-package com.ecommerceAuth.ecommerceAuth.configs;
+package com.ecommerceCatalog.ecommerceCatalog.configs;
 
-import com.ecommerceAuth.ecommerceAuth.model.repositories.UserRepository;
+import com.ecommerceCatalog.ecommerceCatalog.model.repositories.UserRepository;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.authentication.AuthenticationManager;

@@ -1,4 +1,4 @@
-package com.ecommerceAuth.ecommerceAuth.model.responses;
+package com.ecommerceCatalog.ecommerceCatalog.model.responses;
 
 import lombok.Builder;
 import lombok.Data;

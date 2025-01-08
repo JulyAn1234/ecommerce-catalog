@@ -8,11 +8,11 @@
 		<version>3.3.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.ecommerceAuth</groupId>
-	<artifactId>ecommerceAuth</artifactId>
+	<groupId>com.ecommerceCatalog</groupId>
+	<artifactId>ecommerceCatalog</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>ecommerceAuth</name>
-	<description>ecommerceAuth</description>
+	<name>ecommerceCatalog</name>
+	<description>ecommerceCatalog</description>
 	<url/>
 	<licenses>
 		<license/>

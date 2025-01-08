@@ -1,4 +1,4 @@
-package com.ecommerceAuth.ecommerceAuth.configs;
+package com.ecommerceCatalog.ecommerceCatalog.configs;
 
 import com.amazonaws.auth.AWSStaticCredentialsProvider;
 import com.amazonaws.auth.BasicAWSCredentials;

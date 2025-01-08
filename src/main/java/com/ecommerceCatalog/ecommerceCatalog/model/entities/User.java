@@ -1,4 +1,4 @@
-package com.ecommerceAuth.ecommerceAuth.model.entities;
+package com.ecommerceCatalog.ecommerceCatalog.model.entities;
 
 import com.amazonaws.services.dynamodbv2.datamodeling.*;
 

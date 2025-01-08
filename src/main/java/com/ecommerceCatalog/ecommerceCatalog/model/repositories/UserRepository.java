@@ -1,10 +1,9 @@
-package com.ecommerceAuth.ecommerceAuth.model.repositories;
+package com.ecommerceCatalog.ecommerceCatalog.model.repositories;
 
 import com.amazonaws.services.dynamodbv2.datamodeling.DynamoDBMapper;
 import com.amazonaws.services.dynamodbv2.datamodeling.DynamoDBScanExpression;
-import com.amazonaws.services.dynamodbv2.datamodeling.DynamoDBTyped;
 import com.amazonaws.services.dynamodbv2.model.AttributeValue;
-import com.ecommerceAuth.ecommerceAuth.model.entities.User;
+import com.ecommerceCatalog.ecommerceCatalog.model.entities.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 

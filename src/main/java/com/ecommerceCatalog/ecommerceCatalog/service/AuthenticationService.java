@@ -1,9 +1,9 @@
-package com.ecommerceAuth.ecommerceAuth.service;
+package com.ecommerceCatalog.ecommerceCatalog.service;
 
-import com.ecommerceAuth.ecommerceAuth.model.dtos.LoginUserDto;
-import com.ecommerceAuth.ecommerceAuth.model.dtos.RegisterUserDto;
-import com.ecommerceAuth.ecommerceAuth.model.entities.User;
-import com.ecommerceAuth.ecommerceAuth.model.repositories.UserRepository;
+import com.ecommerceCatalog.ecommerceCatalog.model.dtos.LoginUserDto;
+import com.ecommerceCatalog.ecommerceCatalog.model.dtos.RegisterUserDto;
+import com.ecommerceCatalog.ecommerceCatalog.model.entities.User;
+import com.ecommerceCatalog.ecommerceCatalog.model.repositories.UserRepository;
 import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;
 import org.springframework.security.crypto.password.PasswordEncoder;

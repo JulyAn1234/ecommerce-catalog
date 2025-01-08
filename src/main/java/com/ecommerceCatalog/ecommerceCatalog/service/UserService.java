@@ -1,7 +1,7 @@
-package com.ecommerceAuth.ecommerceAuth.service;
+package com.ecommerceCatalog.ecommerceCatalog.service;
 
-import com.ecommerceAuth.ecommerceAuth.model.entities.User;
-import com.ecommerceAuth.ecommerceAuth.model.repositories.UserRepository;
+import com.ecommerceCatalog.ecommerceCatalog.model.entities.User;
+import com.ecommerceCatalog.ecommerceCatalog.model.repositories.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

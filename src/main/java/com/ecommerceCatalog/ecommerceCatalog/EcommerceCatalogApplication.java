@@ -1,11 +1,11 @@
-package com.ecommerceAuth.ecommerceAuth;
+package com.ecommerceCatalog.ecommerceCatalog;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class EcommerceAuthApplication {
+public class EcommerceCatalogApplication {
 	public static void main(String[] args) {
-		SpringApplication.run(EcommerceAuthApplication.class, args);
+		SpringApplication.run(EcommerceCatalogApplication.class, args);
 	}
 }

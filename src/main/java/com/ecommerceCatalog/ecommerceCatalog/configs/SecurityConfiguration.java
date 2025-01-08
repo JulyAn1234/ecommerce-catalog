@@ -1,4 +1,4 @@
-package com.ecommerceAuth.ecommerceAuth.configs;
+package com.ecommerceCatalog.ecommerceCatalog.configs;
 
 
 import org.springframework.context.annotation.Bean;
@@ -34,6 +34,7 @@ public class SecurityConfiguration {
         http
                 .csrf(csrf -> csrf.disable()) // Use lambda to disable CSRF protection
                 .authorizeHttpRequests(authorize -> authorize
+                        .requestMatchers("/product/**").permitAll()
                         .requestMatchers("/auth/**").permitAll()
                         .anyRequest().authenticated()
                 )

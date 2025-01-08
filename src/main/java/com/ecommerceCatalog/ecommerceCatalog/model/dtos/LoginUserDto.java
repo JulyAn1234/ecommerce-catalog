@@ -1,10 +1,9 @@
-package com.ecommerceAuth.ecommerceAuth.model.dtos;
+package com.ecommerceCatalog.ecommerceCatalog.model.dtos;
 
 import lombok.Data;
 
 @Data
-public class RegisterUserDto {
-
+public class LoginUserDto {
     private String username;
 
     private String password;
