@@ -18,7 +18,7 @@ public class ProductListTest {
     private MockMvc mockMvc;
 
     @Test
-    public void healthCheckTest() throws Exception{
+    public void productListTest() throws Exception{
         this.mockMvc.perform(get("/product"))
                 .andExpect(status().isOk());
     }
